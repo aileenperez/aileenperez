@@ -1,8 +1,8 @@
-### Hi there 👋
+![Background Quote](https://github.com/aileenperez/aileenperez/blob/master/Screenshot%202020-09-23%20180245.jpg)
 
 <!--
 **aileenperez/aileenperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
